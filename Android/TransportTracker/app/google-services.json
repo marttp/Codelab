@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "801600427332",
+    "firebase_url": "https://asset-tracking-codelab-a2d6b.firebaseio.com",
+    "project_id": "asset-tracking-codelab-a2d6b",
+    "storage_bucket": "asset-tracking-codelab-a2d6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801600427332:android:633c1d52ec724e9c",
+        "android_client_info": {
+          "package_name": "com.example.transporttracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801600427332-8u6o1ct1tqis8c6gctq6q3sbqmu62c9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHWlDCvZiNIF4GrABVDyqinQxnnfOB8CY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
